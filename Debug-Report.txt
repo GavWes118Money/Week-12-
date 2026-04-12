@@ -1,1 +1,1 @@
-
+When debugging this webpage, I notice is that there were 2 spelling errors with the background color, 
