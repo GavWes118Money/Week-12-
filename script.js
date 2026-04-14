@@ -24,5 +24,4 @@ document.addEventListener("DOMContentLoaded", () => {
  
  
  
-  console.log("Page loaded!"
-});
+  console.log("Page loaded!");
