@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
       gallery.src = "https://i.postimg.cc/YqsjDfVm/ghost.png";
       toggled = false;
     } else {
-      gallery.src = "./assets/image-does-not-exist.jpg"; 
+      gallery.src = "https://i.postimg.cc/SxsZ8XRY/image1.jpg"; 
       toggled = true;
     }
   });
